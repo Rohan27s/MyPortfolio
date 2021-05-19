@@ -44,4 +44,19 @@
       "last 1 safari version"
     ]
   }
+},
+"description": "<h2 align=\"center\">\r   Portfolio Website - v2.0<br/>\r   <a href=\"http://soumyajit.tech/\" target=\"_blank\">soumyajit.tech</a>\r </h2>\r <div align=\"center\">\r   <img alt=\"Demo\" src=\"./Images/readme-img1.png\" />\r </div>",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rohan27s/MyPortfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rohan27s/MyPortfolio/issues"
+  },
+  "homepage": "https://github.com/Rohan27s.github.io/MyPortfolio"
 }
+
